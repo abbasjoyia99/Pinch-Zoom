@@ -1,7 +1,8 @@
 # Pinch-Zoom
 # Let’s get familiar with Swif!
 
-<img width="1264" alt="Screenshot 2022-08-26 at 11 46 34 AM" src="https://user-images.githubusercontent.com/27265918/186840561-ba9d4459-b155-4959-8423-845e8f8c75b4.png">
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/27265918/186894846-0630ef8e-df0d-4b98-83fd-c2f39adca449.gif)
+
 
 1-long press\
 2-double tap\
